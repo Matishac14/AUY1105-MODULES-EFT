@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Matishac14/AUY1105-MODULES-EFT/compare/v1.0.0...v1.0.1) (2026-07-06)
+
+
+### Bug Fixes
+
+* correción busqueda de ID en Bucket S3 ([6cd073e](https://github.com/Matishac14/AUY1105-MODULES-EFT/commit/6cd073ed0f9e2b5e374404aadadd10c9e8f6ad90))
+
 ## [1.0.0](https://github.com/AUY1105-II/Modulos-AUY1105-Grupo-4/compare/v0.3.0...v0.4.0) (2026-06-03)
 
 
