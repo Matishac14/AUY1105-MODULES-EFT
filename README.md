@@ -1,4 +1,4 @@
-# Módulos Terraform — AUY1105 Grupo 4
+# Módulos Terraform — AUY1105
 
 Repositorio de módulos Terraform reutilizables para la **Evaluación Parcial 2** del curso AUY1105 — Infraestructura como Código II.
 
